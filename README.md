@@ -4,4 +4,4 @@
 
 🌱 Currently learning and exploring the fascinating world of AI and Machine Learning.
 
-📫 Let's connect! [LinkedIn]((https://www.linkedin.com/in/animesh-puranik-587697306/)) | [Email](mailto:your_email@example.com)
+📫 Let's connect! [LinkedIn]([(https://www.linkedin.com/in/animesh-puranik-587697306/)]) | [Email](mailto:your_email@example.com)
